@@ -5,14 +5,14 @@
  */
 package pruebajava2;
 import javax.swing.JOptionPane;
-/**
+/**********************************************************************
  * Mariane Muñoz Gonzalez
  * Fecha 06 de Noviembre  2017
  * @author LC22
  * Clase Mesesdelaño
  * Responsabilidad Clase principal
  *
- */
+ ************************************************************************/
 public class MesesdelAño 
 {
  public static void main(String[] args)   
